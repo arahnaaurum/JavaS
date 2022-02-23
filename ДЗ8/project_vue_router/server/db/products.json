@@ -1,0 +1,38 @@
+[
+  {
+    "id_product": 1,
+    "product_name": "Dress",
+    "product_text": "Lovely dress",
+    "price": 100
+  },
+  {
+    "id_product": 2,
+    "product_name": "T-Short",
+    "product_text": "Nice t-short",
+    "price": 200
+  },
+  {
+    "id_product": 3,
+    "product_name": "Pants",
+    "product_text": "Sweet pants",
+    "price": 300
+  },
+  {
+    "id_product": 4,
+    "product_name": "Hat",
+    "product_text": "Rad hat",
+    "price": 400
+  },
+  {
+    "id_product": 5,
+    "product_name": "Skirt",
+    "product_text": "Cute skirt",
+    "price": 500
+  },
+  {
+    "id_product": 6,
+    "product_name": "Jacket",
+    "product_text": "Neat jacket",
+    "price": 600
+  }
+]
