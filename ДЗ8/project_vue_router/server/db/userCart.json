@@ -1,0 +1,20 @@
+{
+    "amount": 0,
+    "countGoods": 0,
+    "contents": [
+        {
+            "quantity": 2,
+            "id_product": 3,
+            "product_name": "Pants",
+            "product_text": "Sweet pants",
+            "price": 300
+        },
+        {
+            "quantity": 1,
+            "id_product": 1,
+            "product_name": "Dress",
+            "product_text": "Lovely dress",
+            "price": 100
+        }
+    ]
+}
